@@ -1,4 +1,4 @@
-package mx.com.dominio;
+package com.dominio;
 
 /**
  *
