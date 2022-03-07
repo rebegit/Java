@@ -15,6 +15,6 @@ public class TestUtileria {
         //diferentes formas de usar metodo estatico imprimir de otro paquete:
         //Utileria.imprimir("Saludos");
         //imprimir("Adios");
-        mx.com.dominio.Utileria.imprimir("adios");
+        com.dominio.Utileria.imprimir("adios");
     }
 }
