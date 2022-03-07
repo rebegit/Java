@@ -1,8 +1,8 @@
 package test;
 
-//import mx.com.dominio.*;
-//import mx.com.dominio.Utileria;
-//import static mx.com.dominio.Utileria.imprimir;
+//import com.dominio.*;
+//import com.dominio.Utileria;
+//import static com.dominio.Utileria.imprimir;
 
 /**
  *
