@@ -1,7 +1,7 @@
 
 package test;
 
-import domain.*;
+import domain.Empleado;
 
 /**
  *
@@ -28,7 +28,7 @@ public class TestClaseObject {
             System.out.println("Los objetos son distintos en contenido");
         }
         
-        //si equals es verdadero el valor hashcode debe de ser igual
+        // se compara usando valor entero. si equals es verdadero el valor hashcode debe de ser igual
         if (empleado1.hashCode()==empleado2.hashCode()){
             System.out.println("El valor hashcode es igual");
         } else{
