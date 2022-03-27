@@ -1,0 +1,16 @@
+file- new project- java with maven
+version 1.0
+
+click derecho proyecto-clean and build
+
+añadir dependencia en project Files - pom.xml (para descargar libreria)
+
+ <dependencies>
+        <dependency>
+            <groupId>mysql</groupId> <!--libreria que queremos-->
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.19</version>
+        </dependency>
+    </dependencies>
+
+otra vez click derecho proyecto-clean and build
