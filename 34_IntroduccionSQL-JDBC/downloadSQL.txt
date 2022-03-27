@@ -1,0 +1,7 @@
+MySQL Community Server
+
+https://dev.mysql.com/downloads/mysql/
+
+si es windows:
+Windows (x86, 64-bit), ZIP Archive
+Debug Binaries & Test Suite
